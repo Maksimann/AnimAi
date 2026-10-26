@@ -1,0 +1,12 @@
+{
+  "name": "ai-character-chat",
+  "version": "2.0.0",
+  "description": "Сайт чата с ИИ-персонажами",
+  "main": "server.js",
+  "scripts": {
+    "start": "node --disable-warning=ExperimentalWarning server.js"
+  },
+  "engines": {
+    "node": ">=22.13"
+  }
+}
